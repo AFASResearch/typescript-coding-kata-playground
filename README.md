@@ -1,0 +1,1 @@
+A simple playground for doing Typescript coding kata's, like on codewars.com, in a local editor, like Webstorm.

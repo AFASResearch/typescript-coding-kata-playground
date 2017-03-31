@@ -2,8 +2,8 @@
     "compilerOptions": {
         "module": "commonjs",
         "target": "es5",
-        "noImplicitAny": true,
+        "noImplicitAny": false,
         "sourceMap": true,
-        "strictNullChecks": true
+        "strictNullChecks": false
     }
 }
